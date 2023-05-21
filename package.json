@@ -1,11 +1,11 @@
 {
-    "name": "hcah-syllabus-s24",
-    "version": "0.0.1",
-    "description": "syllabus for hcah student seminar s24 hosted on github",
-    "scripts": {
-        "format": "prettier --write ."
-    },
-    "dependencies": {
-        "prettier": "^2.2.1"
-    }
+  "name": "hcah-syllabus-s24",
+  "version": "0.0.1",
+  "description": "syllabus for hcah student seminar s24 hosted on github",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "prettier": "^2.2.1"
+  }
 }
