@@ -23,4 +23,5 @@ jobs:
         with:
           commit_message: prettify with Github Actions
           branch: ${{ github.head_ref }}
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          commit_user_name: teriyake
+          
