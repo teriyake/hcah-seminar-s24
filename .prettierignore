@@ -1,2 +1,5 @@
 # ignore github workflow files:
 *.yml
+tufte.css
+tufte.min.css
+
